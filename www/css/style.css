@@ -1,0 +1,23 @@
+body {
+	width:100%;
+}
+header,.container {
+	width:900px;
+	margin:0 auto;
+}
+.header-title {
+	margin-bottom:50px;
+}
+.list-group-item .weather-condition {
+	font-size:12px;
+	margin-bottom:10px;
+	color:green;
+}
+#weather_report{
+	margin-top:30px;
+}
+.loading {
+	margin:0 auto;
+	width:256px;
+	height:256px;
+}
